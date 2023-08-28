@@ -48,5 +48,3 @@ The **Web Interface** is built using Flask, a web framework for Python. It provi
 ## Conclusion
 
 The Heart Disease Diagnosis System demonstrates how fuzzy logic and automated decision-making can be applied in the healthcare domain. It provides an efficient and user-friendly way to assess the likelihood of heart disease based on individual health data, potentially aiding early detection and intervention.
-
-If you have any further questions or need more specific details, feel free to ask!
