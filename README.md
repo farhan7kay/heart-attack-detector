@@ -1,4 +1,4 @@
-# heart-attack-detector
+# Heart Disease Diagnosis System
 
 ## Project Overview
 
